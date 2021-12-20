@@ -5,10 +5,10 @@
 </div>
 
 ### 💻 &nbsp;About Me
-🎓 &nbsp;Studying Software Engineering at Van Lang University.  
+🎓 &nbsp;Studied Software Engineering at Van Lang University.  
 🔭 &nbsp;I am currently working at Designveloper as Frontend Developer.  
 📫 &nbsp;How to reach me: hai2571998@gmail.com  
-🤟 &nbsp;My personal website: https://thanhhaidev.netlify.app
+🤟 &nbsp;My personal website: https://thanhhai.dev
 
 ### 🛠 &nbsp;Tech Stack
 #### Languages
